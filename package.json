@@ -1,0 +1,16 @@
+{
+  "name": "insta-cat",
+  "version": "1.0.0",
+  "description": "Web server for an application that allows Instagram users to categories their likes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Kathy Truong kathy.yvy.truong@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.11.2"
+  }
+}
